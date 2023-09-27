@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to MkDocs for the Christmass tree project
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
