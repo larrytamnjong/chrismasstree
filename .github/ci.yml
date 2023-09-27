@@ -20,6 +20,6 @@ jobs:
           key: ${{ github.ref }}
           path: ./documentation
       - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs ./documentation-deploy --force
 
-    
+      
